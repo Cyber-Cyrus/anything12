@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+img {
+  border: 5px black solid;
+  margin: auto;
+}
